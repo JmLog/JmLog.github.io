@@ -1,0 +1,2 @@
+# jmlog.github.io
+blog
