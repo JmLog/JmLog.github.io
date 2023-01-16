@@ -1,7 +1,7 @@
 ---
-title: "Category"
+title: "Programing"
 layout: categories
-permalink: /categories/
+permalink: /programing/
 sidebar_main: true
 author_profile: false
 sidebar:
