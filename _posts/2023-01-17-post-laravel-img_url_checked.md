@@ -16,11 +16,7 @@ sidebar:
 $url = "Your Img Url";
 
 $ch = curl_init();
-<<<<<<< HEAD
-curl_setopt($ch, CURLOPT_URL, $url);드
-=======
 curl_setopt($ch, CURLOPT_URL, $url);
->>>>>>> mac_jm
 curl_setopt($ch, CURLOPT_NOBODY, 1);
 curl_setopt($ch, CURLOPT_FAILONERROR, 1);
 
