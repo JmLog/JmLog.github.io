@@ -11,6 +11,9 @@ docs:
       - title: "Laravel"
         url: /programing/#laravel
         category: "laravel"
+      - title: "Theory"
+        url: /programing/#theory
+        category: "theory"
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
