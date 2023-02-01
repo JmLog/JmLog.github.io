@@ -14,6 +14,9 @@ docs:
       - title: "Theory"
         url: /programing/#theory
         category: "theory"
+      - title: "Aws"
+        url: /programing/#aws
+        category: "aws"
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
