@@ -1,6 +1,6 @@
 ---
 title: "Theory"
-layout: theory
+layout: categories
 permalink: /theory/
 sidebar_main: true
 author_profile: false
