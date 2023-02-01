@@ -533,6 +533,10 @@
   list-style: none;
   font-size: $type-size-6;
 
+  li {
+    font-size: 1em !important;
+  }
+
   @include breakpoint($large) {
     font-size: $type-size-7;
   }
