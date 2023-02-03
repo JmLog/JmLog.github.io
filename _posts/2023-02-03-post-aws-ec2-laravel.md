@@ -11,8 +11,8 @@ sidebar:
     nav: "docs"
 ---
 
-AWS EC2 Linux환경에 라라벨 프로젝트를 배포하려 합니다. 제가 설치한 환경은 아래와 같습니다.
-AWS EC2       : Amazon Linux
+AWS EC2 Linux환경에 라라벨 프로젝트를 배포하려 합니다. 제가 설치한 환경은 아래와 같습니다. <br>
+AWS EC2       : Amazon Linux <br>
 PHP                : 8.0
 
 ## Nginx, Php 설치하기
