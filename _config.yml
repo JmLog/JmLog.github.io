@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise", "default"
+minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise", "default"
 
 # Site Settings
 locale                   : "ko-KR"
@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "JIMIN BAEK"
   avatar           : "/assets/images/profile.png"
-  bio              : "Challenge yourself like a foolish."
+  bio              : "당시의 기록이 미래엔 노하우로"
   location         : "South Korea"
   links:
     - label: "GitHub"
