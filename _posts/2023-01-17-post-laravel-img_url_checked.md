@@ -1,5 +1,5 @@
 ---
-title: 이미지 URL 유효성 체크
+title: "[Laravel] 이미지 URL 유효성 체크"
 layout: single
 categories: laravel
 toc: true
