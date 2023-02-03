@@ -1,5 +1,5 @@
 ---
-title: Laravel 글자 마스킹 처리하기
+title: "[Laravel] 글자 마스킹 처리하기"
 layout: single
 categories: laravel
 toc: true

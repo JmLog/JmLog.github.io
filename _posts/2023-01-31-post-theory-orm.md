@@ -1,5 +1,5 @@
 ---
-title: ORM이란?
+title: "[CS] ORM이란?"
 layout: single
 categories: theory
 tag: ['개발이론', '백엔드']

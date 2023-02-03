@@ -1,5 +1,5 @@
 ---
-title: Session과 Cookie의 차이점
+title: "[CS] Session과 Cookie의 차이점"
 layout: single
 categories: theory
 tag: ['개발이론', '백엔드']
