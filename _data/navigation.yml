@@ -17,6 +17,9 @@ docs:
       - title: "Aws"
         url: /programing/#aws
         category: "aws"
+      - title: "DevOps"
+        url: /programing/#devops
+        category: "devops"
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
