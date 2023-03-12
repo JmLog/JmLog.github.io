@@ -1,5 +1,5 @@
 ---
-title: "[AWS] EC2 - Linux 환경에 Laravel 설치하기"
+title: "[AWS] EC2 - Linux 환경에 Laravel 연결하기"
 layout: single
 categories: aws
 tag: ['aws', 'ec2']
