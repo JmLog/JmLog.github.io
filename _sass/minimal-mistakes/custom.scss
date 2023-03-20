@@ -18,8 +18,8 @@
                 padding: 0;
             }
 
-            .content-item {
-
+            &:last-of-type {
+                border: none;
             }
 
             .content-title {
@@ -86,7 +86,7 @@
                 .content-desc {
                     color: #666;
                     font-size: 0.8em;
-                    margin-top: 14px;
+                    margin-top: 3px;
                     margin-bottom: 0;
                     font-weight: 400;
                     line-height: 1.3;
@@ -98,7 +98,7 @@
 
                 .content-desc-info {
                     font-size: 0.8em;
-                    margin-top: 3px;
+                    margin: 10px 0 3px 0;
                     font-weight: 400;
 
                     @media (max-width: 475px) {
@@ -143,6 +143,20 @@
 
             @media (max-width: 475px) {
                 padding: 30px 0;
+            }
+
+            &.introduce {
+                .default-text {
+                    margin-bottom: 30px;
+
+                    :last-of-type {
+                        margin-bottom: 0;
+                    }
+
+                    @media (max-width: 475px) {
+                        margin-bottom: 20px;
+                    }
+                }
             }
         }
     }
